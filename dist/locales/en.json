@@ -1162,7 +1162,8 @@
                         "subdistrict": "Subdistrict",
                         "subdistrict!vn": "Ward/Commune/Townlet",
                         "suburb": "Suburb",
-                        "suburb!jp": "Ward"
+                        "suburb!jp": "Ward",
+                        "unit": "Unit"
                     }
                 },
                 "admin_level": {

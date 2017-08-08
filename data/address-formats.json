@@ -2,7 +2,7 @@
     "dataAddressFormats": [
         {
             "format": [
-                ["housenumber", "street"],
+                ["housenumber", "street", "unit"],
                 ["city", "postcode"]
             ]
         },
@@ -31,7 +31,7 @@
                 "pt", "se", "si", "sk", "sm", "va"
             ],
             "format": [
-                ["street", "housenumber"],
+                ["street", "housenumber", "unit"],
                 ["postcode", "city"]
             ]
         },
@@ -63,7 +63,7 @@
         {
             "countryCodes": ["us"],
             "format": [
-                ["housenumber", "street"],
+                ["housenumber", "street", "unit"],
                 ["city", "state", "postcode"]
             ]
         },
